@@ -33,11 +33,10 @@ public class Person {
     private String address;
 
 
-    // Constructor.
+    // Person's Void Constructor.
 
     public Person() {
 
-     // Void.
     }
 
     /**
